@@ -1,3 +1,5 @@
+#Bu kod (-5,5) aralığında random olarak verilen 5 adet değerin karelerinin toplamını hesaplar.
+
 import random
 
 def Calculate(data):
